@@ -1,6 +1,17 @@
 # SIMPLE RAILWAY MANAGEMENT SYSTEM
-- run main.py (main file)
 
+# Register
+![alt text](./register.png)
+# Login
+![alt text](./login.png)
+# Book/View/Cancel
+![alt text](./book.png)
+
+#  Run main.py (main file)
+
+```
+python main.py
+```
 
 # Features 
 - booking , cancelling , viewing tickets
